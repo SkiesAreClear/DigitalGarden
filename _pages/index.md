@@ -8,7 +8,7 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at the <span style="font-weight: bold">[[ClearSky Digital Garden]]</span>, a live repository of ideas, methods and mindsets across disciplines.
+  Take a look at the <span style="font-weight: bold">[ClearSky Digital Garden]</span> - a living repository of ideas, methods and mindsets across disciplines. The objective is to open our minds to possibilities by connecting seemingly unrelated thoughts - that's where solutions, insights & epiphanies lie. That's also the what ClearSky, a Strategic Design Consultancy focuses on. 
 </p>
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
