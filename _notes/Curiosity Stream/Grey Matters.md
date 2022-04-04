@@ -1,0 +1,10 @@
+-   **Dark Patterns** Any design that manipulates users into doing stuff not in their best interest - or they would do freely
+-   **Light Patterns** Any interface that facilitates user to do what he is already inclined to do
+-   **Grey Pattern** combo of dark and light
+- ![[Screenshot 2021-10-11 at 12.21.04 PM.png]]
+- Businesse want Zone of Disappointment. Users want Zone of Delight. But the success will be found in the middle.
+- ![[Screenshot 2021-10-11 at 12.24.15 PM.png]]
+- Startups or orgs with focus on customer acquisition - Swiggy when it started | Cheaper to order food than cook at home
+- Amazon sells Alexa and enables us to buy stuff by placing an order with her - Dark pattern... but Alexa makes ordering so much easier to order - White Pattern. Hence it becomes Grey Pattern. Amazon is not forcing us to do this... it is manipulating us. 
+- Auto-Renewals of services are Grey Patterns
+- 
